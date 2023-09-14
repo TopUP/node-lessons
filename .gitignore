@@ -1,1 +1,14 @@
 .idea/
+node_modules/
+express/
+
+fs.js
+fs.txt
+network.js
+package.json
+package-lock.json
+posts.js
+posts.txt
+readme.txt
+sequelize.js
+mysql2.js
